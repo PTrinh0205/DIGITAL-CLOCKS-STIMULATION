@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BTL_TKLL/digital_clock/digital_clock.srcs/sources_1/imports/BTL_TKLL/clock_divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clock_divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BTL_TKLL/digital_clock/digital_clock.srcs/sources_1/imports/BTL_TKLL/clock_divider_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clock_divider_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BTL_TKLL/digital_clock/digital_clock.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
