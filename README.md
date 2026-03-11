@@ -1,7 +1,7 @@
 # DIGITAL-CLOCKS-STIMULATION
 
 ## Project Description
-A 12-hour digital clock system implemented on FPGA using Verilog. [cite_start]It features a user-friendly interface with switches and buttons to manage various timekeeping modes displayed on 7-segment LEDs[cite: 639, 651].
+A 12-hour digital clock system implemented on FPGA using Verilog. It features a user-friendly interface with switches and buttons to manage various timekeeping modes displayed on 7-segment LEDs.
 
 ## Operational Modes
 1. **Real-time Clock**: Accurate 12-hour display with AM/PM indicators.
